@@ -1,4 +1,6 @@
 # @ Ke Ma for final project
+# @contributor: qiqi jiryi
+
 import numpy as np
 import cv2
 import imutils
