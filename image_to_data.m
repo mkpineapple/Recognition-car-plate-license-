@@ -1,4 +1,5 @@
 % @author: jiryi for final project
+% @contributor: qiqi and Ke Ma
 function image_to_data()
 %% This file is to pre-processing the car images dataset
 % this file will generate a numerical respresentation of the data set
