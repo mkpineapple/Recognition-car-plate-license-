@@ -1,4 +1,4 @@
-# @ Ke Ma for final project0
+# @ Ke Ma for final project
 import cv2
 import numpy as np
 import os
