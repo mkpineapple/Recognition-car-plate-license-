@@ -9,8 +9,8 @@ A-Z: position 11-36
 Each small individual character will be treated as independent sample for training, and in the
 evaluation process, we will treat 7 as one
 
-@author: qi-qi based on jryi
-@contributor: jryi, Ke Ma
+# @author: qi-qi based on jryi
+# @contributor: jryi, Ke Ma
 """
 
 import scipy.io as sio
