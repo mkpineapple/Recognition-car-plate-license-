@@ -1,5 +1,7 @@
 #-*- coding: UTF-8 -*-
-# @author Ke Ma for final project
+# @author Ke Ma for final 
+# @contributor: qiqi jiryi
+
 import os
 from PIL import Image
 import matplotlib.pyplot as plt
