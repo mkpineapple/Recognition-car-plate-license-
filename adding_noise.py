@@ -1,4 +1,5 @@
-# @author Ke Ma for final project
+# @author: Ke Ma for final project
+# @contributor: qiqi jiryi
 import cv2
 import numpy as np
 import os
