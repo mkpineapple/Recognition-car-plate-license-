@@ -1,5 +1,5 @@
 #-*- coding: UTF-8 -*-
-# @author Ke Ma for final 
+# @author Ke Ma for final project
 # @contributor: qiqi jiryi
 
 import os
